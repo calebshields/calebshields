@@ -7,10 +7,10 @@ I want to always be creative.</p>
   <ul>
  <li> <strong> 
   <a href="https://play.google.com/store/apps/details?id=com.hansgook.calebshields.splitaroundtipcalculator&hl=en_US&gl=US" rel="nofollow">
-  Split Around Tip Calculator </a></strong> - A compact, easy-to-use tip calculator application for Android
+  Split Around Tip Calculator</a></strong> - A compact, easy-to-use tip calculator application for Android
 </li> 
   <li><strong>
-   <a href="https://www.facebook.com/sparkarhub/portfolios/fb/calebshields/" rel="nofollow">SparkAR Portfolio </a></strong> - A portfolio of fun SparkAR filters
+   <a href="https://www.facebook.com/sparkarhub/portfolios/fb/calebshields/" rel="nofollow">SparkAR Portfolio</a></strong> - A portfolio of fun SparkAR filters
 </li> 
   </ul>
   </div>
